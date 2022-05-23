@@ -1,0 +1,13 @@
+.mainCartpage{
+    display: block;
+    padding: 20px;
+}
+.cartItem{
+    float: right;
+}
+.logo{
+    float: left;
+}
+img{
+    width: 80px;
+}

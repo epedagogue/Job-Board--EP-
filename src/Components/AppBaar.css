@@ -1,0 +1,10 @@
+.SearchBaarr{
+    float: left;
+}
+.grpbtn1{
+    float: right;
+ 
+}
+.crtbtn:hover{
+    background-color: aqua;    
+}

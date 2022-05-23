@@ -1,0 +1,22 @@
+.container{
+    max-width: 1000px;
+    min-height: 400px;
+    border: 1px solid black;
+     margin: auto;
+}
+.land{
+    color: brown;
+}
+.testAlign{
+    text-align: justify;
+}
+.BtnGrp{
+    width: 325px;
+    height: 70px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.AllBtn{
+    margin-top: 0;
+    float: right;
+}
